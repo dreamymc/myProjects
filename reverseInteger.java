@@ -1,12 +1,10 @@
 
-import java.util.HashMap;
-
 public class reverseInteger {
 
-    public static void main(String[] ukiyo) {
+    public static void main(String[] args) {
         int x = 0;
         try {
-            x = 123;
+            x = -321;
         } catch (Exception e) {
 
         }

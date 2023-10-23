@@ -1,10 +1,9 @@
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class noRepeatables {
 
-    public static void main(String[] ukiyo) {
+    public static void main(String[] args) {
         String word = "I like the music you listen to.";
         System.out.println(lengthOfLongestSubstring(word));
 
